@@ -1,1 +1,1 @@
-{"min":{"Average":2.5,"Excellent":4.5,"Good":3.5,"Poor":2.2,"Very Good":4.0},"max":{"Average":3.4,"Excellent":4.9,"Good":3.9,"Poor":2.2,"Very Good":4.4}}
+[{"User Rating":"Average","min":2.5,"max":3.4},{"User Rating":"Excellent","min":4.5,"max":4.9},{"User Rating":"Good","min":3.5,"max":3.9},{"User Rating":"Poor","min":2.2,"max":2.2},{"User Rating":"Very Good","min":4.0,"max":4.4}]
