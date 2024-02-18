@@ -15,6 +15,7 @@ This project analyzes restaurant data from Zomato to inspire a travel food serie
      - `Class RatingStatisticsProcessor` for part 3
   4. The final cell contains the main function that executes all classes.
   5. Data files (`restaurant_data.json`, `Country-Code.csv`) should be in the same directory as the notebooks.
+  6. Environment variables are declared in the last cell.
 
 ### Unit Tests
 
